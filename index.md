@@ -5,7 +5,11 @@ layout: page
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) -->
 
+<img src="images/MILAN_logotype.png" width="192"> <img align="right" src="images/logo.png" width="60"> <img align="right" src="images/durham.svg" width="100"> 
+
 # Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing
+
+
 
 ## Authors
 
@@ -26,6 +30,12 @@ The supplementary material has additional explanatory content, detailed tables, 
 This webpage provides supplementary material for the paper - Explorting the Correspondence of Melodic Contour with Gesture in Raga Alap Singing. This paper will be presented at <a href="https://ismir2023.ismir.net/" target="_blank">ISMIR 2023</a>
   
 [Read the paper](pdf/paper.pdf)
+
+
+
+
+
+
 
 
 
