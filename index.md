@@ -9,11 +9,7 @@ layout: page
 
 # Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing
 
-
-
-## Authors
-
-Shreyas Manish Nadkarni, Sujoy Roychowdhury, Preeti Rao, Martin Clayton 
+<b>Shreyas Manish Nadkarni, Sujoy Roychowdhury, Preeti Rao, Martin Clayton </b>
 
 ## Abstract
 
