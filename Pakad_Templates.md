@@ -1,5 +1,3 @@
-## Pakad Templates
-
 Here we provide the Pakad templates for phrase P\R
 
 [![AK Pakad Template 1](https://img.youtube.com/vi/vF7Q7ilK0_0/0.jpg)](https://www.youtube.com/watch?v=vF7Q7ilK0_0)
