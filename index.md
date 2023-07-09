@@ -27,4 +27,5 @@ The supplementary material has additional explanatory content, detailed tables, 
 
   
 [Read the paper](pdf/paper.pdf)
+
 [Read the Supplementary Material](pdf/Supplementary.pdf)
