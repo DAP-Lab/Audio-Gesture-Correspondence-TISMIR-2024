@@ -2,7 +2,7 @@ Here we provide some examples for the phrase based classification using gesture.
 
 We provide three sets of samples:-
 
-[Pakad Templates](./Pakad_Templates.md) - This is the full set of pakad templates for this phrase.
+[Pakad Templates](Pakad_Templates.md) - This is the full set of pakad templates for this phrase.
 
 [Audio Like Gesture Like](Audio_Like_Predicted_Gesture_Like.md) - This has 4 examples of correctly predicted occurences from the gesture
 
