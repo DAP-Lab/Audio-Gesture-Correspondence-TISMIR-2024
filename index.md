@@ -29,3 +29,5 @@ The supplementary material has additional explanatory content, detailed tables, 
 [Read the paper](pdf/paper.pdf)
 
 [Read the Supplementary Material](pdf/Supplementary.pdf)
+
+[Sample Videos for Phrase Segmentation Experiments](videoSnipsPhraseDetection.md)
