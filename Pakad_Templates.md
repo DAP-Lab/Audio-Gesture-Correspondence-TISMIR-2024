@@ -1,8 +1,7 @@
-Here we provide some example Pakad Templates
-=============================================
+# Here we provide some example Pakad Templates
 
-Phrase P\R
------------
+## Phrase P\R
+
 [![AK Pakad Template 1](https://img.youtube.com/vi/vF7Q7ilK0_0/0.jpg)](https://www.youtube.com/watch?v=vF7Q7ilK0_0)
 
 [![AK Pakad Template 2](https://img.youtube.com/vi/U76pdfwmmUI/0.jpg)](https://www.youtube.com/watch?v=U76pdfwmmUI)
