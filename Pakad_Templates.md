@@ -4,12 +4,11 @@ Here we provide the Pakad templates for phrase P\R
 
 [![AK Pakad Template 2](https://img.youtube.com/vi/U76pdfwmmUI/0.jpg)](https://www.youtube.com/watch?v=U76pdfwmmUI)
 
-Pending to add - AP Pakad Template
+[![AP Pakad Template](https://img.youtube.com/vi/JZTTE_pfX7k/0.jpg)](https://youtu.be/JZTTE_pfX7k)
 
 [![CC Pakad Template 2](https://img.youtube.com/vi/kwgNq-HhMKA/0.jpg)](https://www.youtube.com/watch?v=kwgNq-HhMKA)
 
-[![SM Pakad Template 2](https://img.youtube.com/vi/9K0Uz1-PrGI/0.jpg)](https://www.youtube.com/watch?v=9K0Uz1-PrGI)
+[![SM Pakad Template 2](https://img.youtube.com/vi/9K0Uz1-PrGI/0.jpg)](https://www.youtube.com/watch?v=JZTTE_pfX7k)
 
-Pending to add - SM Pakad Template
+[![SS Pakad Template](https://img.youtube.com/vi/JZTTE_pfX7k/0.jpg)](https://youtu.be/JZTTE_pfX7k)
 
-Pending to add - SS Pakad Template
