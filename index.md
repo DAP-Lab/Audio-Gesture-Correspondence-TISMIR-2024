@@ -31,3 +31,5 @@ The supplementary material has additional explanatory content, detailed tables, 
 [Read the Supplementary Material](pdf/Supplementary.pdf)
 
 [Sample Videos for Phrase Segmentation Experiments](videoSnipsPhraseDetection.md)
+
+[Sample Videos for Stable Note Detection Experiments](videoSnipsStableNote.md)
