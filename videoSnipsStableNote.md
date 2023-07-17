@@ -13,6 +13,8 @@ Stable note timestamps:
 
 [![SM Aalap1 Shree](https://img.youtube.com/vi/PfBuDCszOyM/0.jpg)](https://youtu.be/PfBuDCszOyM){:target="blank",rel="noopener"}
 
+Singer MP
+---------
 SM’s right wrist is stationary for most part of her aalaps (although in the produced example over some parts both hands are moving), while her left wrist is moving at in a way that is hardly correlated with the notes. For example, there is a fast movement of the wrist even for the steady notes (speed being comparable to the nonsteady counterparts). So it is extremely difficult to predict the kind of note sung from the wrist movement, unlike for MP whose movements are extremely systematic.   
 
 Stable note timestamps
