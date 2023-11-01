@@ -7,6 +7,17 @@ Singer AG
 For AG, the gestures are consistent with the stability of notes. For stable notes, the hands are quite steady while for non stable notes they are moving. 
 For more details around gesture contours for this segment,refer to
 [AG Alap Contours](htmls/AG_Aalap1_Bag_70to85s.html)
+**Stable note timestamps:**
+
+1:25-3:18
+
+3:45-4:18
+
+7:45-8:57
+
+10:43-13:21
+
+13:42-14:38
 
 Singer SS
 ----------
@@ -16,6 +27,14 @@ For SS, the gestures are inconsistent with the pitch stability. She is moving he
 For more details around gesture contours for this segment,refer to
 [SS Alap Contours](htmls/SS_Aalap1_Bag_120to140s.html)
 
+**Stable note timestamps:**
+
+4:71-7:68
+
+13:99-17:60
+
+18:33-19:08
+
 Singer MP
 ---------
 [![MP Alap1 Shree](https://img.youtube.com/vi/GzR5AmoeGVg/0.jpg)](https://youtu.be/GzR5AmoeGVg){:target="blank",rel="noopener"}{:target="blank",rel="noopener"}
@@ -23,13 +42,15 @@ Singer MP
 For more details around gesture contours for this segment,refer to
 [MP Alap Contours](htmls/MP_Aalap1_Shree_100to110s.html)
 
-<!-- **Stable note timestamps:**
+**Stable note timestamps:**
 
-0:07-0:10
+0:39-1:46
 
-0:11-0:14
+1:89-2:48
 
-0:23-0:26    -->
+4:13-4:83
+
+7:50-11:33
 
 Singer SM
 ---------
@@ -38,3 +59,28 @@ Singer SM
  
 For more details around gesture contours for this segment,refer to
 [SM Alap Contours](htmls/SM_Aalap1_Shree_90to120s.html)
+
+**Stable note timestamps:**
+
+0:76-1:46
+
+3:69-4:82
+
+5:40-7:74
+
+9:55-10:43
+
+13:68-15:60
+
+16:05-16:56
+
+17:30-17:98
+
+18:89-19:60
+
+19:79-20.68
+
+22:72-26:65
+
+27:29-28:13
+
