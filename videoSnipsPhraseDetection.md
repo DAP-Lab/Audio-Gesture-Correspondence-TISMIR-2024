@@ -1,8 +1,8 @@
-We here provide some samples of phrase rP from two singers.
+We here provide some samples of phrase rP from raga Shree from two singers.
 
-[singer AG](singer_AG.md)
+[Singer AG](singerAG.md)
 
 
-[singer MP](singer_MP.md)
+[Singer MP](singerMP.md)
 
 
