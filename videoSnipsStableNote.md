@@ -4,6 +4,7 @@ Singer AG
 ----------
 [![AG_Alap1_Bag](https://img.youtube.com/vi/Ok_OEcq3oR8/0.jpg)](https://youtu.be/Ok_OEcq3oR8)
 
+
 For AG, the gestures are consistent with the stability of notes. For stable notes, the hands are quite steady while for non stable notes they are moving. 
 For more details around gesture contours for this segment,refer to
 [AG Alap Contours](AG_Aalap1_Bag_70to85s.html)
