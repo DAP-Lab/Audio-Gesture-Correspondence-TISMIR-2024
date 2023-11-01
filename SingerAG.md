@@ -15,7 +15,7 @@ For more details around gesture contours for this segment,refer to
 [![AG rP2](https://img.youtube.com/vi/FkLq0c9-wJc/0.jpg)](https://youtu.be/FkLq0c9-wJc){:target="blank",rel="noopener"}
 
 For more details around gesture contours for this segment,refer to
-[AG rP1](htmls/AG_rP_2.html)
+[AG rP2](htmls/AG_rP_2.html)
 
 [![AG rP3](https://img.youtube.com/vi/LVKVUpBTBNk/0.jpg)](https://youtu.be/LVKVUpBTBNk){:target="blank",rel="noopener"}
 

@@ -15,7 +15,7 @@ For more details around gesture contours for this segment,refer to
 [![MP rP2](https://img.youtube.com/vi/SoQpZDzQcwg/0.jpg)](https://youtu.be/SoQpZDzQcwg){:target="blank",rel="noopener"}
 
 For more details around gesture contours for this segment,refer to
-[MP rP1](htmls/MP_rP_2.html)
+[MP rP2](htmls/MP_rP_2.html)
 
 [![MP rP3](https://img.youtube.com/vi/17DksmX3THI/0.jpg)](https://youtu.be/17DksmX3THI){:target="blank",rel="noopener"}
 
