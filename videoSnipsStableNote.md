@@ -3,6 +3,7 @@ Here we put two examples (30s snippets) out of the aalaps considered for stable 
 Singer AG
 ----------
 [![AG_Alap1_Bag](https://img.youtube.com/vi/Ok_OEcq3oR8/0.jpg)](https://youtu.be/Ok_OEcq3oR8)
+
 For AG, the gestures are consistent with the stability of notes. For stable notes, the hands are quite steady while for non stable notes they are moving. 
 For more details around gesture contours for this segment,refer to
 [AG Alap Contours](AG_Aalap1_Bag_70to85s.html)
@@ -18,6 +19,7 @@ For more details around gesture contours for this segment,refer to
 Singer MP
 ---------
 [![MP Alap1 Shree](https://img.youtube.com/vi/Wm5pWqTJxDU/0.jpg)](https://youtu.be/Wm5pWqTJxDU){:target="blank",rel="noopener"}
+
 For more details around gesture contours for this segment,refer to
 [MP Alap Contours](MP_Aalap1_Shree_100to110s.html)
 
