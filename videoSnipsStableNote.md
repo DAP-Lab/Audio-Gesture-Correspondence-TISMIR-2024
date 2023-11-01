@@ -2,7 +2,7 @@ We provide here some samples of stable notes for few singers.
 
 Singer AG
 ----------
-[![AG_Alap1_Bag](https://img.youtube.com/vi/Ok_OEcq3oR8/0.jpg)](https://youtu.be/Ok_OEcq3oR8)
+[![AG_Alap1_Bag](https://img.youtube.com/vi/Ok_OEcq3oR8/0.jpg)](https://youtu.be/Ok_OEcq3oR8){:target="blank",rel="noopener"}
 
 For AG, the gestures are consistent with the stability of notes. For stable notes, the hands are quite steady while for non stable notes they are moving. 
 For more details around gesture contours for this segment,refer to
@@ -10,7 +10,7 @@ For more details around gesture contours for this segment,refer to
 
 Singer SS
 ----------
-[![SS_Alap1_Bag](https://img.youtube.com/vi/gxUIMd8decc/0.jpg)](https://youtu.be/gxUIMd8decc)
+[![SS_Alap1_Bag](https://img.youtube.com/vi/gxUIMd8decc/0.jpg)](https://youtu.be/gxUIMd8decc){:target="blank",rel="noopener"}
 
 For SS, the gestures are inconsistent with the pitch stability. She is moving her hands constantly in minimal ways for both stable and nonstable notes.
 For more details around gesture contours for this segment,refer to
@@ -18,7 +18,7 @@ For more details around gesture contours for this segment,refer to
 
 Singer MP
 ---------
-[![MP Alap1 Shree](https://img.youtube.com/vi/GzR5AmoeGVg/0.jpg)](https://youtu.be/GzR5AmoeGVg){:target="blank",rel="noopener"}
+[![MP Alap1 Shree](https://img.youtube.com/vi/GzR5AmoeGVg/0.jpg)](https://youtu.be/GzR5AmoeGVg){:target="blank",rel="noopener"}{:target="blank",rel="noopener"}
 
 For more details around gesture contours for this segment,refer to
 [MP Alap Contours](htmls/MP_Aalap1_Shree_100to110s.html)
@@ -29,18 +29,12 @@ For more details around gesture contours for this segment,refer to
 
 0:11-0:14
 
-0:23-0:26 -->
+0:23-0:26    -->
 
 Singer SM
 ---------
 
-[![SM Alap1 Shree](https://img.youtube.com/vi/PfBuDCszOyM/0.jpg)](https://youtu.be/PfBuDCszOyM)
+[![SM Alap1 Shree](https://img.youtube.com/vi/PfBuDCszOyM/0.jpg)](https://youtu.be/PfBuDCszOyM){:target="blank",rel="noopener"}
  
-
-<!-- **Stable note timestamps**
-
-0:07-0:09
-
-0:15-0:17
-
-0:24-0:27 -->
+For more details around gesture contours for this segment,refer to
+[SM Alap Contours](htmls/SM_Aalap1_Shree_90to120s.html)
