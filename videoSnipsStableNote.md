@@ -1,13 +1,12 @@
-Here we put two examples (30s snippets) out of the aalaps considered for stable note classification. Both singers (MP and SM) have a relatively high percentage of stable notes in their singing but the SVM performance for MP is far better than that for SM. The reasons for this are attribute to the following characteristics in their gestures:
+We provide here some samples of stable notes for few singers.
 
 Singer AG
 ----------
 [![AG_Alap1_Bag](https://img.youtube.com/vi/Ok_OEcq3oR8/0.jpg)](https://youtu.be/Ok_OEcq3oR8)
 
-
 For AG, the gestures are consistent with the stability of notes. For stable notes, the hands are quite steady while for non stable notes they are moving. 
 For more details around gesture contours for this segment,refer to
-[AG Alap Contours](AG_Aalap1_Bag_70to85s.html)
+[AG Alap Contours](htmls/AG_Aalap1_Bag_70to85s.html)
 
 Singer SS
 ----------
@@ -15,14 +14,14 @@ Singer SS
 
 For SS, the gestures are inconsistent with the pitch stability. She is moving her hands constantly in minimal ways for both stable and nonstable notes.
 For more details around gesture contours for this segment,refer to
-[SS Alap Contours](SS_Aalap1_Bag_120to140s.html)
+[SS Alap Contours](htmls/SS_Aalap1_Bag_120to140s.html)
 
 Singer MP
 ---------
-[![MP Alap1 Shree](https://img.youtube.com/vi/Wm5pWqTJxDU/0.jpg)](https://youtu.be/Wm5pWqTJxDU){:target="blank",rel="noopener"}
+[![MP Alap1 Shree](https://img.youtube.com/vi/GzR5AmoeGVg/0.jpg)](https://youtu.be/GzR5AmoeGVg){:target="blank",rel="noopener"}
 
 For more details around gesture contours for this segment,refer to
-[MP Alap Contours](MP_Aalap1_Shree_100to110s.html)
+[MP Alap Contours](htmls/MP_Aalap1_Shree_100to110s.html)
 
 <!-- **Stable note timestamps:**
 
@@ -35,7 +34,7 @@ For more details around gesture contours for this segment,refer to
 Singer SM
 ---------
 
-[![SM Alap1 Shree](https://img.youtube.com/vi/PfBuDCszOyM/0.jpg)](https://youtu.be/PfBuDCszOyM){:target="blank",rel="noopener"}
+[![SM Alap1 Shree](https://img.youtube.com/vi/PfBuDCszOyM/0.jpg)](https://youtu.be/PfBuDCszOyM)
  
 
 <!-- **Stable note timestamps**
