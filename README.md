@@ -17,9 +17,9 @@ patterns across singers, with potential applications in gesture-based music anal
 
 ## Authors
 
-Shreyas Manish Nadkarni
-Preeti Rao
-Martin Clayton
+Shreyas Manish Nadkarni <br>
+Preeti Rao <br>
+Martin Clayton <br>
 
 
               
