@@ -5,7 +5,7 @@ layout: page
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) -->
 
-## Supplementary Material for "Explorting the Correspondence of Melodic Contour with Gesture in Raga Alap Singing"
+## Supplementary Material for "Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing", Proceedings of ISMIR 2023
 
 ## Abstract
 
