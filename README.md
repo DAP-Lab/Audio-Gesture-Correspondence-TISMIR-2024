@@ -5,17 +5,19 @@ layout: page
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) -->
 
-## Supplementary Material for "Exploring the Correspondence of Melodic Contour with Gesture in Raga Alap Singing", Proceedings of ISMIR 2023
+## Supplementary Material for "Identifying Melodic Motifs and Stable Notes from Gestural Information in Indian Vocal Performances", Proceedings of TISMIR 2024
 
 ## Abstract
 
-Musicology research suggests a correspondence between manual gesture and melodic contour in raga performance.Computational tools such as pose estimation from video and time series pattern matching potentially facilitate larger-scale studies of gesture and audio correspondence. We present a dataset of audiovisual recordings of Hindustani vocal music comprising 9 ragas sung by 11 expert performers.
-With the automatic segmentation of the audiovisual time series based on analyses of the extracted F0 contour, we study whether melodic similarity implies gesture similarity. Our results indicate that specific representations of gesture kinematics can predict high-level melodic features such as held notes and raga-characteristic motifs significantly better than chance.
+Manual gesture plays an important role in Indian classical singing, and one of its functions is to
+support, illustrate or communicate aspects of raga melody. We explore the relationship between
+hand movements and melodic elements in Indian classical vocal performances, using kinematic
+data to classify stable notes and raga-specific phrases. Our findings reveal consistent gestural
+patterns across singers, with potential applications in gesture-based music analysis.
 
 ## Authors
 
 Shreyas Manish Nadkarni
-Sujoy Roychowdhury
 Preeti Rao
 Martin Clayton
 
