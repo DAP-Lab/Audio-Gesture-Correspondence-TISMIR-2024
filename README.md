@@ -22,5 +22,7 @@ Preeti Rao <br>
 Martin Clayton <br>
 
 
-              
+## About this Resource           
      
+We present (i) Video examples with commentaries; (ii) Supplementary figures and tables; (iii) Python notebooks with code that was used to generate the results presented in the paper using the processed 
+video data available at its original github archive: https://github.com/DAP-Lab/hindustani_raga_dataset_processing
