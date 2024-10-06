@@ -5,7 +5,7 @@ layout: page
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) -->
 
-## Supplementary Material and Codes for "Identifying Melodic Motifs and Stable Notes from Gestural Information in Indian Vocal Performances", Proceedings of TISMIR 2024
+## Supplementary Material and Codes for "Identifying Melodic Motifs and Stable Notes from Gestural Information in Indian Vocal Performances", Transactions of the International Society for Music Information Retrieval, 2024
 
 ## Abstract
 
