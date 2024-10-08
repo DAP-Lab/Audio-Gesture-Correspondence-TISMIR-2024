@@ -1,4 +1,4 @@
-**Supplementary Material**
+# Supplementary Material
 
 This folder contains a subfolder (Videos) containing video snippets aimed at demonstrating our findings. 
 Please find the explanation about them in the document Videos.pdf. (Please note: Links to video folders in the PDF work
